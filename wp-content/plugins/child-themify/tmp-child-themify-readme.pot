@@ -1,0 +1,122 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Child Themify"
+msgstr ""
+
+#. Short description.
+msgid "Create child themes at the click of a button."
+msgstr ""
+
+#. Screenshot description.
+msgid "Network administration area"
+msgstr ""
+
+#. Screenshot description.
+msgid "Single site administration area"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Create child themes from any non-child theme at the click of a button."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is multisite compatible; if used on a multisite network, controls for creating child themes will be in the network admin instead of the regular site admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>child-themify</code> directory and its contents to the <code>/wp-content/plugins/</code> directory (or your custom location if you manually changed the location)."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "You can now create a child theme of any non-child theme you have installed by going to the themes page and clicking \"Create a child theme\" from the actions links of the theme of your choice."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2015-10-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed basename location when loading the textdomain"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added textdomain and domainpath headers to plugin file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2015-01-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added French translation from FR_lucien"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2014-12-20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Thumbnail now gets copied when you create a child theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various other tweaks and security hardening"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2014-09-15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WordPress 4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2014-04-15"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Standardized theme action links shim. See https://github.com/johnpbloch/child-themify/issues/2 for more information"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maintenance, code cleanup, bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2014-01-13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WP 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2013-01-18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a semicolon to the end of the @import line in the stylesheet. Props to Luis Alejandre (wpthemedetector.com) for finding and solving."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Released: 2012-12-31"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial Release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I get some help?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "I'd really prefer that you use <a href=\"https://github.com/johnpbloch/child-themify/issues/new\">Github's issue tracker</a>. The <a href=\"https://wordpress.org/support/plugin/child-themify\">WordPress.org support forum for the plugin</a> will work too, it will just take longer."
+msgstr ""
