@@ -6,3 +6,43 @@ Template: zerif-lite
 */
 
 @import url("../zerif-lite/style.css");
+
+
+.wp-blog-posts-filter{
+  width : 200px;
+}
+
+wp-blog-posts-filter-content {
+ float : left;
+  padding : 20px;
+width: 200;
+}
+
+wppf-post-thumbnail-wrapper {
+ width : 200px; 
+}
+
+wppf-post-wrapper {
+  width : 200px; 
+}
+
+element.style {
+    float: left;
+    padding-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+li{
+float: left
+}
+
+.lcp_thumbnail{
+display: block;
+max-width: 150px;
+max-height: 125px;
+width: auto;
+    height: auto;
+}
